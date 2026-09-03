@@ -1,0 +1,21 @@
+# PyCharm / IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Environment variables / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+
+# Logs
+*.log
